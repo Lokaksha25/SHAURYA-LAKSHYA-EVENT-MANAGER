@@ -1,5 +1,7 @@
 # 🎯 SHAURYA-LAKSHYA Event Manager
 
+**🌐 Live Website:** [https://shaurya-lakshya-event.web.app/](https://shaurya-lakshya-event.web.app/) *(Real-time deployed event website)*
+
 > **Official Slot Booking & Live Scoring System for the NCC Air Rifle Shooting Event**  
 > Powered by Precihole Sports | 8th Mile Fest, RVCE
 
